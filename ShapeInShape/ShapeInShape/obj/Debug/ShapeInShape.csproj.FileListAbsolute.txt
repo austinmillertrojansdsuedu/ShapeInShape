@@ -1,0 +1,6 @@
+C:\Users\austinmillz2223\Desktop\ShapeInShape\ShapeInShape\bin\Debug\ShapeInShape.pdb
+C:\Users\austinmillz2223\Desktop\ShapeInShape\ShapeInShape\obj\Debug\ShapeInShape.csproj.AssemblyReference.cache
+C:\Users\austinmillz2223\Desktop\ShapeInShape\ShapeInShape\obj\Debug\ShapeInShape.csproj.CoreCompileInputs.cache
+C:\Users\austinmillz2223\Desktop\ShapeInShape\ShapeInShape\obj\Debug\ShapeInShape.pdb
+C:\Users\austinmillz2223\Desktop\ShapeInShape\ShapeInShape\bin\Debug\ShapeInShape.exe
+C:\Users\austinmillz2223\Desktop\ShapeInShape\ShapeInShape\obj\Debug\ShapeInShape.exe
